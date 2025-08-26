@@ -64,4 +64,50 @@
     }
 
     ul {
-      margin
+      margin: 0.5em 0 0.5em 1.5em;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>📝 Translation Project Overview</h1>
+
+  <p>This semester, we’ll be working together to translate a novel. Each student will be assigned <strong>half of a chapter</strong>, paired with another student working on the other half. While you’ll likely want to <em>touch base with your chapter partner</em> to ensure consistency in tone and interpretation, this is ultimately an <strong>individual project</strong>. You’ll be assessed solely on your own portion of the text.</p>
+
+  <p>Each of you will also <strong>lead one class session</strong>, guiding us through a portion of your assigned text. During this session, you’ll share your draft translation, walk us through key interpretive choices, and invite feedback from your peers and the professor. You’ll then revise your draft and submit your final translation during the <strong>final exam period</strong>.</p>
+
+  <h2>📚 Project Timeline & Steps</h2>
+
+  <details>
+    <summary>Step 1: Meet with the Professor (Two Weeks Before Your Class)</summary>
+    <p>Schedule a meeting with the professor to discuss the portion of the text you plan to present. This is your chance to:</p>
+    <ul>
+      <li>Ask questions about the passage</li>
+      <li>Flag any interpretive or linguistic challenges</li>
+      <li>Get early guidance before drafting</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>Step 2: Lead a Class Session & Workshop Your Draft</summary>
+    <p>During your assigned class session, you’ll:</p>
+    <ul>
+      <li>Guide the class through a reading of your selected passage</li>
+      <li>Share your draft translation</li>
+      <li>Facilitate discussion and gather feedback</li>
+    </ul>
+    <p>This is your opportunity to test ideas, clarify ambiguities, and refine your voice as a translator.</p>
+  </details>
+
+  <details>
+    <summary>Step 3: Revise & Submit Final Translation</summary>
+    <p>After your class session:</p>
+    <ul>
+      <li>Incorporate feedback from peers and the professor</li>
+      <li>Refine your translation for clarity, tone, and accuracy</li>
+      <li>Submit your final version during the final exam period</li>
+    </ul>
+  </details>
+
+</body>
+</html>
